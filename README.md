@@ -1,4 +1,4 @@
-# Satelite-dashboard
+# Satelites
 Proyecto de análisis y predicción de satélites en órbita con dashboard interactivo
 # Satelite Dashboard 🚀
 
