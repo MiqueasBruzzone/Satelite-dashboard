@@ -1,6 +1,6 @@
 # Satelite-dashboard
 Proyecto de análisis y predicción de satélites en órbita con dashboard interactivo
-# Satellite Dashboard 🚀
+# Satelite Dashboard 🚀
 
 Este es un proyecto de análisis y predicción de satélites lanzados al espacio, utilizando datos simulados y técnicas de Machine Learning. Además, incluye un **dashboard interactivo** para explorar los datos de manera visual y dinámica.
 
