@@ -19,5 +19,20 @@ El proyecto también incluye un dashboard interactivo desarrollado con **Streaml
 
 ## Contenido del Repositorio
 
-Este repositorio está estructurado de la siguiente manera:
+Satelite-dashboard/
+├── data/
+│   ├── satellites_cleaned.csv      # Datos del proyecto
+├── notebooks/
+│   ├── 01-eda.ipynb                # Análisis exploratorio
+│   ├── 02-predict-model.ipynb      # Desarrollo del modelo predictivo
+├── src/
+│   ├── app.py                      # Código del dashboard
+│   ├── train_model.py              # Código para entrenar el modelo
+├── README.md                       # Descripción del proyecto
+├── requirements.txt                # Lista de dependencias necesarias
+├── .gitignore                      # Archivos y carpetas a ignorar por Git
+
+---
+
+
 
