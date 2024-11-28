@@ -15,6 +15,13 @@ El proyecto también incluye un dashboard interactivo desarrollado con **Streaml
 - Visualizar gráficos como histogramas y líneas de tiempo.
 - Descargar y explorar los datos directamente.
 
+- ## Requisitos
+Asegúrate de tener instalados:
+- Python 3.8 o superior
+- Streamlit
+- Pandas
+- Matplotlib
+
 ---
 
 ## Contenido del Repositorio
