@@ -7,7 +7,7 @@ st.title("Dashboard de Satélites (Datos Reales)")
 
 
 # Mostrar una imagen inicial
-st.image("images/Satelites-1.jpg", caption="Satélite en órbita", use_container_width=True)
+st.image("images/Satelites-2.jpg", caption="Satélite en órbita", use_container_width=True)
  
 
  
