@@ -1,28 +1,63 @@
-# Satelites
-Proyecto de análisis y predicción de satélites en órbita con dashboard interactivo
-# Satelite Dashboard 🚀
+# Satellite Dashboard
 
-Este es un proyecto de análisis y predicción de satélites lanzados al espacio, utilizando datos simulados y técnicas de Machine Learning. Además, incluye un **dashboard interactivo** para explorar los datos de manera visual y dinámica.
+**Satellite Dashboard** es un proyecto interactivo que utiliza Streamlit para visualizar datos y realizar predicciones sobre satélites en órbita. Este proyecto combina análisis de datos, visualizaciones y machine learning en una interfaz fácil de usar.
 
-## Descripción del Proyecto
+## Características principales
 
-Este proyecto tiene dos objetivos principales:
-1. Analizar datos históricos de satélites (masa, tipo de órbita, país de lanzamiento, etc.).
-2. Utilizar un modelo de Machine Learning para predecir el tipo de misión de un satélite basado en sus características.
+- Visualización de datos de satélites en tiempo real.
+- Predicciones basadas en modelos de machine learning.
+- Interfaz interactiva diseñada con Streamlit.
 
-El proyecto también incluye un dashboard interactivo desarrollado con **Streamlit**, que permite:
-- Filtrar los datos por país, tipo de órbita y estado (activo/inactivo).
-- Visualizar gráficos como histogramas y líneas de tiempo.
-- Descargar y explorar los datos directamente.
+## Tecnologías utilizadas
 
-- ## Requisitos
-Asegúrate de tener instalados:
-- Python 3.8 o superior
-- Streamlit
-- Pandas
-- Matplotlib
+- **Python**: Lenguaje principal del proyecto.
+- **Streamlit**: Para la creación del dashboard interactivo.
+- **Pandas**: Manipulación y análisis de datos.
+- **Scikit-learn**: Para entrenamiento y predicción de modelos.
+- **Matplotlib**: Generación de gráficos.
+
+## Instrucciones de instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/MiqueasBruzzone/Satelite-dashboard.git
+   ```
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd Satelite-dashboard
+   ```
+
+3. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Ejecuta la aplicación:
+   ```bash
+   streamlit run app.py
+   ```
+
+5. Abre tu navegador y ve a [http://localhost:8501](http://localhost:8501).
+
+
+## Próximos pasos
+
+- Mejorar las visualizaciones interactivas.
+- Implementar métricas de desempeño para el modelo de machine learning.
+- Publicar el proyecto en Streamlit Cloud para acceso más fácil.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor realiza un fork y envía un pull request.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ---
+
+¡Gracias por revisar este proyecto! Si te gusta, no dudes en darle una estrella ⭐ en GitHub.
 
 ## Contenido del Repositorio
 
